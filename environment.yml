@@ -1,0 +1,7 @@
+name: twitter-api
+channels:
+  - defaults
+dependencies:
+  - tweepy
+  - python-dotenv
+  - pandas
