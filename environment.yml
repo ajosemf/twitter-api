@@ -1,5 +1,6 @@
 name: twitter-api
 channels:
+  - conda-forge
   - defaults
 dependencies:
   - tweepy
